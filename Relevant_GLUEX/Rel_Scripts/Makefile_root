@@ -1,5 +1,5 @@
 ifndef ROOT_VERSION
-    ROOT_VERSION=5.34.26
+    ROOT_VERSION=6.10.02
 endif
 
 TARFILE=root_v$(ROOT_VERSION).source.tar.gz
