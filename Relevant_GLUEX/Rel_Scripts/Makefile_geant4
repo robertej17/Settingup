@@ -1,5 +1,5 @@
 ifndef G4_VERSION
-    G4_VERSION = 10.02.p02
+    G4_VERSION = 10.03.p02
 endif
 TARFILE = geant4.$(G4_VERSION).tar.gz
 G4DIR = geant4.$(G4_VERSION)
